@@ -3,11 +3,16 @@ public class Main {
 
         System.out.println("Часть 2. Задание 1");
 
+        People maksim = new People();
+        People any = new People();
+        People kate = new People();
+        People artem = new People();
 
         String name;
         int age;
         String city;
         String post;
+
 
 
 
